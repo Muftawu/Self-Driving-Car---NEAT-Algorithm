@@ -1,2 +1,4 @@
-# Self-Driving-Car---NEAT-Algorithm
-Using the NEAT algorithm to simulate a self driving car
+YouTube Project
+
+1. Custom OpenAI Gym environment
+2. NEAT-python
